@@ -1,0 +1,25 @@
+2025-12-15 15:15:34.377 INFO  [main] Utils - [TestNG] Running:
+  C:\Users\91709\eclipse-workspace\OpencartAutomation\Groups.xml
+
+2025-12-15 15:15:35.107 INFO  [TestNG-tests-1] Tc001_RegistrationTest - ***Testing is started***
+2025-12-15 15:20:28.964 INFO  [main] Utils - [TestNG] Running:
+  C:\Users\91709\eclipse-workspace\OpencartAutomation\Groups.xml
+
+2025-12-15 15:21:01.714 INFO  [TestNG-tests-1] Tc001_RegistrationTest - ***Testing is started***
+2025-12-15 15:21:05.779 INFO  [TestNG-tests-1] Tc001_RegistrationTest - test is finished
+2025-12-15 15:29:46.885 INFO  [main] Utils - [TestNG] Running:
+  C:\Users\91709\eclipse-workspace\OpencartAutomation\Groups.xml
+
+2025-12-15 15:30:09.288 INFO  [TestNG-tests-2] Tc001_RegistrationTest - ***Testing is started***
+2025-12-15 15:30:18.142 INFO  [TestNG-tests-2] Tc001_RegistrationTest - test is finished
+2025-12-15 15:41:47.901 INFO  [main] Utils - [TestNG] Running:
+  C:\Users\91709\eclipse-workspace\OpencartAutomation\Groups.xml
+
+2025-12-15 15:42:04.661 INFO  [TestNG-tests-1] Tc001_RegistrationTest - ***Testing is started***
+2025-12-15 15:42:07.523 INFO  [TestNG-tests-1] Tc001_RegistrationTest - test is finished
+2025-12-15 20:46:17.025 INFO  [main] Utils - [TestNG] Running:
+  C:\Users\91709\eclipse-workspace\OpencartAutomation\testng.xml
+
+2025-12-15 20:47:15.490 INFO  [main] Utils - [TestNG] Running:
+  C:\Users\91709\eclipse-workspace\OpencartAutomation\testng.xml
+
